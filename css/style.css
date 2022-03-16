@@ -559,8 +559,9 @@ p {
 }
 
 #projects .project-info h1 {
-    font-size: 4rem;
+    font-size: 3.5rem;
     font-weight: 500;
+    margin-bottom: 20px;
 }
 
 #projects .project-info h2 {
@@ -570,7 +571,15 @@ p {
 }
 
 #projects .project-info p {
+    
     color: #fff;
+}
+
+#projects .project-info a {
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-top: 10pz;
+    color: rgb(217, 231, 16);
 }
 
 #projects .project-img {
